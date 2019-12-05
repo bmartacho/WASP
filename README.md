@@ -1,5 +1,7 @@
 # WASP
-**Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation**
+
+  <a href="https://doi.org/10.3390/s19245361">**Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation**</a>.
+</p><br />
 
 <p align="center">
   <img src="https://www.mdpi.com/sensors/sensors-19-05361/article_deploy/html/images/sensors-19-05361-g004.png" title="WASPnet architecture for Semantic Segmentation">
