@@ -36,6 +36,13 @@ Both datasets used in this paper and required for training, validation, and test
   Cityscapes: https://www.cityscapes-dataset.com<br />
 </p><br />
 
+**Pre-trained Models:**
+<p align="justify">
+The pre-trained weights for both Pascal VOC and Cityscapes datasets can be downloaded 
+  <a href="https://drive.google.com/drive/folders/1sX90NCPQL5zg4bzFYRsF5yBxBZ6DQfsG?usp=sharing">here</a>.
+</p><br />
+
+
 **Contact:**
 
 <p align="justify">
