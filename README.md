@@ -12,6 +12,18 @@ Both datasets used in this paper and required for training, validation, and test
   Cityscapes: https://www.cityscapes-dataset.com<br />
 </p><br />
 
+**Contact:**
+
+<p align="justify">
+Bruno Artacho:<br />
+  E-mail: bmartacho@mail.rit.edu<br />
+  Website: https://people.rit.edu/bm3768<br />
+  
+Andreas Savakis:<br />
+  E-mail: andreas.savakis@rit.edu<br />
+  Website: https://www.rit.edu/directory/axseec-andreas-savakis<br /><br />
+</p>
+
 **Citation:**
 
 <p align="justify">
