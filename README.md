@@ -63,14 +63,16 @@ Andreas Savakis:<br />
 Artacho, B.; Savakis, A. Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation. Sensors 19, no. 24: 5361, 2019. <br />
 
 Latex:<br />
-@article{Artacho,<br />
-    author =       "Bruno Artacho and Andreas Savakis",<br />
-    title =        "Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation",<br />
-    journal =      "Sensors",<br />
-    volume =       "19",<br />
-    number =       "24",<br />
-    pages =        "5361",<br />
-    year =         "2019",<br />
-    DOI =          "https://doi.org/10.3390/s19245361"<br />
+@article{artacho2019waterfall,<br />
+  title={Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation},<br />
+  author={Artacho, Bruno and Savakis, Andreas},<br />
+  journal={Sensors},<br />
+  volume={19},<br />
+  number={24},<br />
+  pages={5361},<br />
+  year={2019},<br />
+  publisher={Multidisciplinary Digital Publishing Institute},<br />
+  DOI ={"https://doi.org/10.3390/s19245361"}<br />
+}
 }<br />
 </p>
