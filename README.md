@@ -73,6 +73,5 @@ Latex:<br />
   year={2019},<br />
   publisher={Multidisciplinary Digital Publishing Institute},<br />
   DOI ={"https://doi.org/10.3390/s19245361"}<br />
-}
 }<br />
 </p>
